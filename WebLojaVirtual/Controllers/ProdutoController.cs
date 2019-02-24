@@ -27,5 +27,6 @@ namespace WebLojaVirtual.Controllers
         //    return DateTime.Now.Date.DayOfWeek.ToString();
         //}
         //fim
+        // retorno do fim 
     }
 }
